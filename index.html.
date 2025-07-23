@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Мой сайт — полезные советы</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 20px auto; padding: 0 15px; }
+    nav a { margin-right: 15px; text-decoration: none; color: #0077cc; }
+    nav a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="index.html">Главная</a>
+    <a href="about.html">О сайте</a>
+    <a href="contact.html">Контакты</a>
+  </nav>
+
+  <h1>Добро пожаловать на мой сайт с полезными советами!</h1>
+  <p>Здесь вы найдёте интересные статьи, советы и рекомендации на разные темы.</p>
+
+  <h2>Последние статьи</h2>
+  <ul>
+    <li>Как начать свой бизнес с нуля</li>
+    <li>5 советов для эффективного обучения</li>
+    <li>Лучшие приложения для планирования времени</li>
+  </ul>
+
+  <p>Спасибо за визит! Надеюсь, вы найдете здесь много полезного.</p>
+</body>
+</html>
